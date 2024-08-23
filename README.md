@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmajidben&show_icons=true&locale=en&layout=compact" alt="abdelmajidben" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdelmajidben&show_icons=true&locale=en" alt="abdelmajidben" /></p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmajidben&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></p>
