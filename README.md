@@ -28,10 +28,14 @@ Passionate AI and Data Science enthusiast currently pursuing a Master’s degree
  📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdelmajidben&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelmajidben&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- Top Languages should appear first -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmajidben&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+
+    <div style="display: flex; justify-content: center; margin-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdelmajidben&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelmajidben&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
+    </div>
   </div>
 </div>
 
