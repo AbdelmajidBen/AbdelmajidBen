@@ -4,10 +4,6 @@
 <br>  
 Passionate AI and Data Science enthusiast currently pursuing a Master’s degree in Artificial Intelligence and Data Sciences. I specialize in building AI-driven solutions, with experience in Python, MERN Stack, Big Data, and NLP.<br>
 
-I’m currently working on:
-  - Developing intelligent chatbots using **LLaMA** and **LangChain**.
-  - Building SaaS solutions like **ChatPDF**, a contextual PDF interaction platform powered by **OpenAI** and **Pinecone**.
-  - Exploring Big Data applications using **Kafka** and **Spark**.
 
 <div align="center">
 
